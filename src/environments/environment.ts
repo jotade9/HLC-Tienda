@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig : {
+    apiKey: "AIzaSyCoxWI-h1F7BahQRoJKs7QK8b_mBoDQA1c",
+    authDomain: "tienda-ropa-55e4c.firebaseapp.com",
+    projectId: "tienda-ropa-55e4c",
+    storageBucket: "tienda-ropa-55e4c.firebasestorage.app",
+    messagingSenderId: "850706945998",
+    appId: "1:850706945998:web:b848170d8111695ac07d9f"
+  }
 };
 
 /*
